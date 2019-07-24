@@ -1,0 +1,25 @@
+/*.main {
+	width: 100%;
+	width: 1000px;
+	margin: 0 auto;
+	border: 1px solid red;
+}
+.stop {
+	
+	text-align: center;
+}*/
+
+
+.iu1 {
+	float: left;
+	width: 100%;
+	/*border: 1px solid red;*/
+	margin: 0 auto;
+}
+.iu1>h1 {
+	text-align: center;
+}
+.iu1>img {
+	text-align: center;
+	margin: 0 auto;
+}
